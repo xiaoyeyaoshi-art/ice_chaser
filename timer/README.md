@@ -6,7 +6,7 @@
 ## /function timer:start_timer : タイマーを開始
 ## /function timer:stop_timer  : タイマーを強制停止
 
-###・制限時間の変更:
+### ・制限時間の変更:
 ## /scoreboard players set #config_time tm_seconds 任意の秒数（ｓ） (初期値: 300秒)
 
 
