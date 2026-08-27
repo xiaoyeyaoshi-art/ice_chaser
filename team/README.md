@@ -4,8 +4,8 @@
 
 
 ### ・鬼の人数を設定
-** /scoreboard players set #oni_count team_count 2（任意の数）**
+## /scoreboard players set #oni_count team_count 2（任意の数)
 
 
-# ・チーム分け実行
-# /function team:split_team
+### ・チーム分け実行
+## /function team:split_team
