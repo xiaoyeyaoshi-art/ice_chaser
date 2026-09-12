@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "hurt_something": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:reference",
+            "name": "ice_chaser:is_oni"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "ice_chaser:on_hit"
+  }
+}
